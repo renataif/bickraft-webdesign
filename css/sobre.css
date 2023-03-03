@@ -1,0 +1,46 @@
+/* Sobre */
+
+.sobre-intro {
+  width: 100%;
+  height: 160px;
+  background: url("../img/bg-sobre.jpg") no-repeat center;
+  background-size: cover;
+  margin-top: 92px;
+  text-align: center;
+  padding-top: 40px;
+}
+
+.sobre-intro p {
+  color: #fff;
+}
+
+.hist-val h2 {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.hist-val {
+  padding-top: 60px;
+  padding-bottom: 20px;
+}
+
+.hist-val p {
+  font-size: 18px;
+  line-height: 25px;
+  margin-bottom: 1em;
+  padding-right: 60px;
+}
+
+.hist-val li {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.hist-val h2::after {
+  margin: 8px 0;
+}
+
+.hist-val img {
+  padding-top: 30px;
+}

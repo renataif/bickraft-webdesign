@@ -1,20 +1,20 @@
 <header>
   <div class="header">
-    <a href="/bickraftweb">
+    <a href="/">
       <img src="/img/bikcraft.svg" alt="Bickraft">
     </a>
     <nav>
       <ul>
-        <a href="/bickraftweb/sobre">
+        <a href="/sobre">
           <li>SOBRE</li>
         </a>
-        <a href="/bickraftweb/produtos">
+        <a href="/produtos">
           <li>PRODUTOS</li>
         </a>
-        <a href="/bickraftweb/portifolio">
+        <a href="/portifolio">
           <li>PORTFÓLIO</li>
         </a>
-        <a href="/bickraftweb/contato">
+        <a href="/contato">
           <li>CONTATO</li>
         </a>
       </ul>
